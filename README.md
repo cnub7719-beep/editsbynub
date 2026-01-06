@@ -1,6 +1,6 @@
 # editsbynub | Video Editing Portfolio
 
-Welcome! I am a professional video editor specializing in [Your Specialty, e.g., Short-form Content / Cinematic Trailers]. I use **Adobe Premiere Pro**, **After Effects**, and **DaVinci Resolve** to bring stories to life.
+Welcome! I am a professional video editor specializing in **MOTION GRAPHICS**. I use **Adobe Premiere Pro**, **After Effects**, and to bring stories to life.
 
 ---
 
@@ -8,9 +8,9 @@ Welcome! I am a professional video editor specializing in [Your Specialty, e.g.,
 
 | Project Name | Style | Link |
 | :--- | :--- | :--- |
-| **Gaming Montage** | Fast-paced / VFX | [Watch Here](Your_Link_YouTube/Drive) |
-| **Corporate Interview** | Clean / Minimal | [Watch Here](Your_Link_YouTube/Drive) |
-| **Travel Vlog** | Color Graded / Narrative | [Watch Here](Your_Link_YouTube/Drive) |
+| **PROJECT 1** | Fast-paced / VFX | [Watch Here](Your_Link_YouTube/Drive) |
+| **PROJECT 2** | Clean / Minimal | [Watch Here](Your_Link_YouTube/Drive) |
+| **PROJECT 3** | Color Graded / Narrative | [Watch Here](Your_Link_YouTube/Drive) |
 
 ---
 
