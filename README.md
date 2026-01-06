@@ -1,41 +1,52 @@
 <div align="center">
 
-# 🎬 <span style="color: #FF3E81;">editsbynub</span> 
-### <kbd>Motion Graphics Artist & Visual Storyteller</kbd>
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Video%20Camera.png" alt="Video Camera" width="50" /> <span style="font-family: 'Arial Black'; color: #00D2FF; font-size: 40px;">editsbynub</span>
+
+### <kbd><b>MOTION GRAPHICS ARTIST • VISUAL STORYTELLER • ADOBE EXPERT</b></kbd>
 
 ---
 
-![Motion Graphics Banner](https://capsule-render.vercel.app/render?type=waving&color=gradient&height=200&section=header&text=MOTION%20DESIGN&fontSize=90&animation=fadeIn&fontAlignY=38)
+![Banner](https://capsule-render.vercel.app/render?type=soft&color=000000&height=250&section=header&text=MOTION%20DESIGN%202026&fontSize=80&fontColor=00D2FF&animation=twinkling)
 
 ---
 
-## ⚡ <span style="color: #00D2FF;">The Showreel</span>
-*Transforming static ideas into dynamic motion.*
+## 💎 <span style="color: #FF3E81;">The Creative Suite</span>
+*Mastering the industry standard for high-end visuals.*
 
-| Project | Style | Link |
-| :--- | :--- | :--- |
-| **<span style="color: #BB86FC;">Cyberpunk Intro</span>** | 3D / Neon | [View Project](https://google.com) |
-| **<span style="color: #03DAC6;">Liquid Logo Animation</span>** | Minimal / Smooth | [View Project](https://google.com) |
-| **<span style="color: #CF6679;">Explainer Graphics</span>** | Clean / Corporate | [View Project](https://google.com) |
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aftereffects/aftereffects-original.svg" alt="AE" width="80" height="80" /> &nbsp;&nbsp;&nbsp;&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/premierepro/premierepro-original.svg" alt="PR" width="80" height="80" /> &nbsp;&nbsp;&nbsp;&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-original.svg" alt="PS" width="80" height="80" />
 
 ---
 
-## 🛠️ <span style="color: #FFDE59;">Tech Stack</span>
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aftereffects/aftereffects-original.svg"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/premierepro/premierepro-original.svg"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"></code>
-<code><img height="40" src="https://www.vectorlogo.zone/logos/blender/blender-icon.svg"></code>
+## 🎬 <span style="color: #03DAC6;">Project Showreel</span>
+*Click the thumbnails below to view high-resolution renders.*
+
+| 🖥️ Motion Graphics | 🎨 Color Grading | ⚡ Kinetic Type |
+| :---: | :---: | :---: |
+| <a href="#"><img src="https://via.placeholder.com/300x168/00D2FF/FFFFFF?text=3D+Product+Reveal" width="100%"></a> | <a href="#"><img src="https://via.placeholder.com/300x168/FF3E81/FFFFFF?text=Cinematic+Color" width="100%"></a> | <a href="#"><img src="https://via.placeholder.com/300x168/03DAC6/FFFFFF?text=Modern+Typography" width="100%"></a> |
+| **3D Motion Branding** | **Vibrant Grading** | **Fast-Paced Edits** |
 
 ---
 
-## 🎨 <span style="color: #FF79C6;">Specialties</span>
-**✦ Keyframe Animation** •  **✦ 2.5D Parallax** •  **✦ Kinetic Typography** **✦ Logo Animation** •  **✦ Color Theory** •  **✦ Visual Effects**
+## 🛠️ <span style="color: #FFDE59;">Technical Expertise</span>
+
+#### **01. After Effects**
+> Advanced Keyframing, Expressions, Lottie Animations, and 3D Camera Tracking.
+
+#### **02. Premiere Pro**
+> Narrative Pacing, Multicam Editing, and Audio Engineering for maximum retention.
+
+#### **03. Photoshop**
+> Custom Texture Creation, Masking, and Assets for Motion workflows.
 
 ---
 
-## 📬 <span style="color: #8BE9FD;">Let's Create</span>
-[![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com)
-[![](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
-[![](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cnub7719@gmail.com)
+## 📈 <span style="color: #BB86FC;">Performance Metrics</span>
 
-</div>
+- 🚀 **10M+** Views generated for clients.
+- ⚡ **24-Hour** Initial turnaround time.
+- 🎯 **100%** Satisfaction on high-retention content.
+
+---
+
+## 🤝 <span style="color: #00D2FF
+
