@@ -48,5 +48,21 @@
 
 ---
 
-## 🤝 <span style="color: #00D2FF
+## 🤝 <span style="color: #00D2FF;">Let's Collaborate</span>
 
+<a href="mailto:cnub7719@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="#">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+<a href="#">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+</a>
+
+<br />
+
+![Footer](https://capsule-render.vercel.app/render?type=rect&color=00D2FF&height=2&section=footer&width=1000)
+*© 2026 editsbynub • Optimized for 60FPS Storytelling*
+
+</div>
